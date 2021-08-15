@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://dev.to/ruben9922" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="ruben9922" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rubendougall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rubendougall" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ruben9922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruben9922" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/3806231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ruben9922" height="30" width="40" /></a>
 <a href="https://instagram.com/rubendougall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubendougall" height="30" width="40" /></a>
 </p>
 
