@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruben Dougall</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Number Tile Game](https://github.com/Ruben9922/number-tile-game/tree/typescript-rewrite)
+- 🔭 I’m currently working on [Binary Converter](https://github.com/Ruben9922/binary-converter)
 
-- 🌱 I’m currently learning **how to create CLIs using TypeScript**
+- 🌱 I’m currently learning **GitHub Actions**
 
 - 👨‍💻 All of my projects are available at [https://rubendougall.co.uk/](https://rubendougall.co.uk/)
 
