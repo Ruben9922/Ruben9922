@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ruben Dougall</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Binary Converter](https://github.com/Ruben9922/binary-converter)
+- 🔭 I’m currently working on [Automaton Tool (React)](https://github.com/Ruben9922/automaton-tool-react)
 
 - 🌱 I’m currently learning **GitHub Actions**
 
