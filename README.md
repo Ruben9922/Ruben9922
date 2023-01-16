@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flags Quiz](https://github.com/Ruben9922/flags-quiz)
 
-- 🌱 I’m currently learning **GitHub Actions**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://rubendougall.co.uk/](https://rubendougall.co.uk/)
 
