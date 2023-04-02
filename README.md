@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rubendougall.co.uk/](https://rubendougall.co.uk/)
 
-- 💬 Ask me about **TypeScript, JavaScript (ES6), React, C#, Python, Java**
+- 💬 Ask me about **TypeScript, JavaScript (ES6), React, C#, Go, Python, Java**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rubendougall/](https://www.linkedin.com/in/rubendougall/)
 
