@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ruben Dougall</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on some command-line games in Go!
+- 🔭 I’m currently working on some **command-line games** in **Go** and **Android apps** in **React Native**!
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning about making **Android apps** in **React Native**!
 
 - 👨‍💻 All of my projects are available at [https://rubendougall.co.uk/](https://rubendougall.co.uk/)
 
